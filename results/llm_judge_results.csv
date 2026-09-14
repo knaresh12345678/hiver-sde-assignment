@@ -1,0 +1,11 @@
+eval_id,judge_correctness,judge_helpfulness,judge_groundedness,judge_no_hallucination,judge_overall,judge_method
+1,4,4,3,5,4,deterministic_local_baseline
+2,4,4,2,5,4,deterministic_local_baseline
+3,2,4,2,5,3,deterministic_local_baseline
+4,2,4,3,5,4,deterministic_local_baseline
+5,2,4,3,5,4,deterministic_local_baseline
+6,2,4,3,5,4,deterministic_local_baseline
+7,2,4,3,5,4,deterministic_local_baseline
+8,4,4,2,5,4,deterministic_local_baseline
+9,4,4,3,5,4,deterministic_local_baseline
+10,4,4,2,5,4,deterministic_local_baseline

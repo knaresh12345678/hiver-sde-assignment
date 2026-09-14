@@ -1,0 +1,6 @@
+pandas
+scikit-learn
+openpyxl
+langdetect
+python-dotenv
+google-genai
